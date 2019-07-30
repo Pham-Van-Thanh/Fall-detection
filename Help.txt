@@ -1,0 +1,8 @@
+Step 1: Create a folder as the following path:
+
+C:\Users\User\Desktop\Thanh
+
+Step 2: Copy data from the public datasets import to the above folder ('filename'.txt)
+Step 3: Run file 'txt_2_excel.p' to convert date from .txt to excel
+Step 4: Run file 'Algorithm.p'
+Step 5: Open file 'Result11.txt' to show the results.
